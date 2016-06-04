@@ -7,3 +7,7 @@
  */
 
 echo "Hello World";
+
+echo "Today is the second class";
+
+print "Ok I am printing";
