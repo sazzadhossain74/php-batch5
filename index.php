@@ -11,3 +11,7 @@ echo "Hello World";
 echo "Today is the second class";
 
 print "Ok I am printing";
+
+echo "hello everybody how are you?" . "<br>";
+
+echo "hello mizan bhai please check my repository" . "<br>";
