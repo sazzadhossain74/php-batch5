@@ -10,7 +10,7 @@ echo "Hello World";
 
 echo "Today is the second class";
 
-print "Ok I am printing";
+print "Ok I am printing" . "<br>";
 
 echo "hello everybody how are you?" . "<br>";
 
